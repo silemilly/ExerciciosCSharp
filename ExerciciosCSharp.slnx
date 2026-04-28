@@ -1,5 +1,20 @@
 <Solution>
+  <Folder Name="/lista03/">
+    <Project Path="Exercicio33/Exercicio33.csproj" Id="7fc3b549-7511-46cc-960e-d03f7137116c" />
+    <Project Path="exercicio34/exercicio34.csproj" Id="f508a1ff-9f05-451a-9129-971d6133eb65" />
+    <Project Path="exercicio37/exercicio37.csproj" Id="f68182c6-1200-4305-9a36-705bdbeb1b17" />
+    <Project Path="exercicio39/exercicio39.csproj" Id="1a9aa921-c436-48ae-9aae-b56a895ea2d5" />
+    <Project Path="Exercicio40/Exercicio40.csproj" Id="14e7dd52-edbb-47eb-a392-901a08874c39" />
+    <Project Path="exercicio41/exercicio41.csproj" Id="6e22f314-9d29-49c4-a03d-fac85c5375b8" />
+    <Project Path="Exercicios31/Exercicios31.csproj" Id="2aae1541-fc6a-4c6c-8b48-7a8793f7cf4b" />
+    <Project Path="exercicios32/exercicios32.csproj" Id="b8947dd7-ed73-4431-ab9f-eb6938350b14" />
+    <Project Path="exercicios34/exercicios36.csproj" Id="bc2c9977-7be4-4214-a79b-072641cea957" />
+    <Project Path="exercicios35/exercicios35.csproj" Id="3571a0aa-7519-4219-b19f-48fe5ba0f57f" />
+    <Project Path="exercicios38/exercicios38.csproj" Id="cd5494d8-6154-4894-bc97-1db0be8a36fb" />
+  </Folder>
   <Folder Name="/Material/">
+    <Project Path="AlunoNota/AlunoNota.csproj" Id="43bfc444-cfa6-492b-8894-f3d7fe30772d" />
     <Project Path="OlaMundo/OlaMundo.csproj" />
+    <Project Path="SaidaDeValoresTabuada/SaidaDeValoresTabuada.csproj" Id="dba9739f-e340-4853-b7c5-cc015d3c69f0" />
   </Folder>
 </Solution>
